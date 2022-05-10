@@ -10,7 +10,7 @@
             <div class="social"><a href=""><i class="fa fa-twitter-square" aria-hidden="true"></i></a></div>
 
         </div>
-        <p>&copy;Nelson Andrade</p>
+        <p>&copy;Nelson Andrade 2022</p>
 </section>
 
   
